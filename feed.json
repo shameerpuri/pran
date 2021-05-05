@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Swasth",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/pran",
+    "feed_url": "https://shameerpuri.github.io/pran/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Shameer Puri"
+    },
+    "items": [
+    ]
+}
